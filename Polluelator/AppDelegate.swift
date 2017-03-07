@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Polluelator
 //
-//  Created by Jorge Ariza on 14/12/16.
+//  Created by Sergio López on 14/12/16.
 //  Copyright © 2016 Sergio López. All rights reserved.
 //
 

@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Polluelator
+//  Calimero
 //
-//  Created by Jorge Ariza on 14/12/16.
-//  Copyright © 2016 Sergio López. All rights reserved.
+//  Created by Andrés Álvarez on 07/03/17.
+//  Copyright © 2017 Andrés Álvarez. All rights reserved.
 //
 
 import UIKit
